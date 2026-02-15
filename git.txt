@@ -1,0 +1,3 @@
+GIT: 
+-Git is software which manages the versions of code.
+-It can tracks the changes of code.
