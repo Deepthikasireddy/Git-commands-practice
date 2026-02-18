@@ -1,3 +1,6 @@
 GIT: 
 -Git is software which manages the versions of code.
 -It can tracks the changes of code.
+
+GitHub:
+-GitHub is used to store git projects and source code files online.
