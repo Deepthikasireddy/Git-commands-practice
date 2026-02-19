@@ -4,3 +4,4 @@ GIT:
 
 GitHub:
 -GitHub is used to store git projects and source code files online.
+-It is also used to collaborate ,communicate with different teams and sharing resources and working on it. 
