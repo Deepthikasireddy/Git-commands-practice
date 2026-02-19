@@ -5,3 +5,6 @@ GIT:
 GitHub:
 -GitHub is used to store git projects and source code files online.
 -It is also used to collaborate ,communicate with different teams and sharing resources and working on it. 
+
+Real life Analogy: Git is like a notebook where we can write notes.
+                   GitHub is locker where we can keep the notebook safely.
